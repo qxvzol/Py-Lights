@@ -12,3 +12,4 @@ The final aim is to make something to individually control LED and RGB Lights.
 * We prepared VSCode to use as the editor.
 * We also setup the Raspberry Pi Pico to run on VSCode by installing the required plugins/extensions.
 * Additionally we linked setup a Github repository to store the code.
+* We also copied a code to blink the LED to test the code was working
